@@ -32,3 +32,9 @@ Cette commande sert à scanner les ip sur une plage d’adresse. Il faut install
 
 `img-2016-11-24_13-51-36_B.jpg` :	
 ![img-2016-11-24_13-51-36_B.jpg](img-2016-11-24_13-51-36_B.jpg)
+
+### montage du 24 novembre
+
+avec les [scripts pythons](python) 
+
+![montage-2016-11-24.jpg](montage-2016-11-24.jpg)
