@@ -62,3 +62,9 @@ même si il y a encore des problèmes de ratio.
 et le montage, qui tiens avec des gros crayons et des baguettes !
 
 ![montage au jack](montage-30-11-2016-jack.jpg)
+
+
+### Compute Module
+
+les notes sur le RPI Compute Module et son IO dev kit sont sur cette page : 
+[CM Notes](CMnotes.md)
