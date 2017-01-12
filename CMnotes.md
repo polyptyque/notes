@@ -13,7 +13,7 @@ J'ai finis par utiliser un autre Rpi B+ comme intermédiaire, car c’est plus s
 
 ## activer le SSH sur un CM
 
-suivant [cette article](https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/)
+suivant [cet article](https://www.thepolyglotdeveloper.com/2016/06/connect-raspberry-pi-zero-usb-cable-ssh/)
 
 il faut booter le CM, via 
 
@@ -63,4 +63,4 @@ le kit de dévellopement CM contient un adaptateur 15W vers 22W pour la caméra 
 	
 ### Photos !
 
-![fight](cam-test-2017-01-11_22-01-57.jpg)	
+![fight](images/cam-test-2017-01-11_22-01-57.jpg)	
