@@ -7,6 +7,7 @@
 - 5Mpx [RPi Camera Module](https://www.raspberrypi.org/products/camera-module/)
 - 8Mpx [RPi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
 - [OpenMV](https://openmv.io/) une caméra dédiée à la `machine vison` — attention, *l’image capturée est en 320x240 en RGB*
+- [CMUcam](http://www.cmucam.org/) famille de camera, dont la 1Mpx [CMUcam5 Pixy](http://www.cmucam.org/projects/cmucam5/wiki) spécialisé dans la détection d’objet
 
 ### Single board computer
 
