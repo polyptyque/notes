@@ -3,6 +3,8 @@ notes du projet polyptyque
 
 petits morceaux à copier coller…
 
+[Liens utiles](links.md)
+
 ### mount sshfs
 
 commande pour monter un rpi en ssh, sur le dossier home/pi
