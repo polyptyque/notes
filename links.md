@@ -20,6 +20,7 @@
 ## Tools
 
 - [upverter](https://upverter.com/) pour concevoir et designer une PCB sur mesure. Gratuit si le projet est libre, collaboratif. 
+- [Geppetto by Gumstix](https://geppetto.gumstix.com) permet de designer une PCB de manière très intuitive, et d’avoir un devis immédiat sur sa fabrication. 1999$ de frais de base, un peu cher... 
 
 ## Knowledge & inspirations
 
