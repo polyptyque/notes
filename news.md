@@ -1,3 +1,27 @@
+### 6 avril
+
+Ça y est, on est a réussi — *merci à Acathla du [jack](http://jack.tf) pour avoir bricoler la connectique pi camera cassé, c’était ça* — juste en ligne de commande pour l’instant, mais le programme python va suivre...
+
+![CMIO dual camera](images/cmio-2-dual-cam.jpg)
+
+Et les résultats sont déjà concluant, même avec les réglages caméra automatiques. 
+
+![CM dual 0](images/06-04-2017/cam-test-2017-04-06_00-44-32-0.jpg)
+![CM dual 1](images/06-04-2017/cam-test-2017-04-06_00-44-32-1.jpg)
+
+### 29 mars
+
+![Collège](images/college-lenain-de-tillemont.jpg)
+
+Rendez-vous au collège Lenain-de-Tillemont pour montrer l’avancement du dispositif technique avec les élèves, et avec une intervention de Mathieu Marion de [F93](http://f93.fr)
+
+![Classe A](images/classe-a-29-03.jpg)
+![Classe B](images/classe-b-29-03.jpg)
+
+On a fait un beau schéma au tableau
+![Tableau](images/bertrand-29-03.jpg)
+
+
 
 ### 11 janvier
 

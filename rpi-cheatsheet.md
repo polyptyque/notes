@@ -28,8 +28,11 @@ Pi 2
 
 ### faire une photo de test, via `raspistill`
 
-	raspistill -o cam-test-$(date +%Y-%m-%d_%H-%m-%S).jpg -cs 0
+	raspistill -o cam-test-$(date +%Y-%m-%d_%H-%M-%S).jpg -cs 0
 	
+pour prendre deux photos en dual-cam
+
+	raspistill -o cam-test-$(date +%Y-%m-%d_%H-%M-%S)-1.jpg -cs 1 & raspistill -o cam-test-$(date +%Y-%m-%d_%H-%M-%S)-0.jpg -cs 0	
 	
 ### monter la particition de boot (depuis mon PI B+)
 
