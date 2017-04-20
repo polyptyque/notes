@@ -1,3 +1,26 @@
+### 20 avril après-midi
+
+Le prototype affiche maintenant quasi-en-direct les images, lors de la prise de vue 
+
+<video src="https://files.mastodon.social/media_attachments/files/000/281/337/original/b3a2fed0947c295e.mp4" type="mp4">
+[voir la vidéo](https://mastodon.social/media/5BvZ0j3irlTHgpePRls)
+</video>
+
+### 20 avril matin
+
+Matinée de travail avec les collègiens.
+
+Objectif : expérimenter l’espace et l’optique, avec les caméras définitives (`PiCamera v2`), avec en tout 4 caméras et deux `slave-module`. 
+
+Fabrication de prototype en carton, pour supporter les caméras. Super boulot de Bertrand, avec que du recyclage, des cure-dents et un peu d’astuce !
+
+![F93 et polyptyque la salle](images/20-04-2017/IMG_5112.jpg)
+![F93 et polyptyque cutter](images/20-04-2017/IMG_5113.jpg)
+![F93 et polyptyque](images/20-04-2017/IMG_5115.jpg)
+![F93 et polyptyque collegiens](images/20-04-2017/IMG_5117.jpg)
+![F93 et polyptyque](images/20-04-2017/IMG_5118.jpg)
+![F93 et polyptyque CM](images/20-04-2017/IMG_5119.jpg)
+
 ### 14 avril
 
 
