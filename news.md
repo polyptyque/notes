@@ -1,10 +1,8 @@
+# Journal de bord
+
 ### 20 avril après-midi
 
-Le prototype affiche maintenant quasi-en-direct les images, lors de la prise de vue 
-
-<video src="https://files.mastodon.social/media_attachments/files/000/281/337/original/b3a2fed0947c295e.mp4" type="mp4">
-[voir la vidéo](https://mastodon.social/media/5BvZ0j3irlTHgpePRls)
-</video>
+Le prototype affiche maintenant quasi-en-direct les images, lors de la prise de vue, dans le navigateur web ([voir la vidéo](https://mastodon.social/media/5BvZ0j3irlTHgpePRls).)
 
 ### 20 avril matin
 
@@ -20,6 +18,10 @@ Fabrication de prototype en carton, pour supporter les caméras. Super boulot de
 ![F93 et polyptyque collegiens](images/20-04-2017/IMG_5117.jpg)
 ![F93 et polyptyque](images/20-04-2017/IMG_5118.jpg)
 ![F93 et polyptyque CM](images/20-04-2017/IMG_5119.jpg)
+
+### 19 avril
+
+Journée de préparation, au sein des locaux de F93. Nous avons une salle pour installer le matériel. Préparation d’un second Compute Module
 
 ### 14 avril
 
