@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+
+        <meta name="description" content="{{site.description}}"/>
+        <meta name="author" content="{{site.author}}"/>
+        <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link href="{{site.baseurl}}/css/screen.css" media="all" rel="stylesheet" type="text/css" />
+        <link href="{{site.baseurl}}/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+    </head>
+
+    <body>
+
+        <div class="site container">
+
+        <header>
+            <h1><a href="{{site.baseurl}}/">{{ site.name }}</a></h1>
+                <h4>{{ site.description }}</h4>
+            <hr />
+        </header>
+
+        <nav>
+
+        </nav>
+
+        <main>
+
+            {{ content }}
+
+        </main>
+
+        <footer>
+            <p>Le projet est soutenu par <a href="http://f93.fr">F93</a> et le <a href="https://cg93.fr">conseil général de Seine-Saint-Denis</a></p>
+            <p>Distribué sous <a href="/LICENSE">license GPL-3.0</a> — <time>{{ site.time | date: '%Y' }}</time> — {{ site.authors }}</p>
+        </footer>
+
+      </div>
+
+        <script src="{{site.baseurl}}/js/main.js"></script>
+    </body>
+
+</html>
