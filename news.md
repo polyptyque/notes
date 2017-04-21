@@ -2,7 +2,9 @@
 
 ### 20 avril après-midi
 
-Le prototype affiche maintenant quasi-en-direct les images, lors de la prise de vue, dans le navigateur web ([voir la vidéo](https://mastodon.social/media/5BvZ0j3irlTHgpePRls).)
+Le prototype affiche maintenant quasi-en-direct les images, lors de la prise de vue, dans le navigateur web.
+
+[![voir la vidéo](images/20-04-2017/video-preview.jpg)](https://mastodon.social/media/5BvZ0j3irlTHgpePRls)
 
 ### 20 avril matin
 
