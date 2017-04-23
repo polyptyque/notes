@@ -28,6 +28,20 @@
             <hr />
         </header>
 
+        <h2 class="h1">Journal de bord</h2>
+        <ul class="news">
+
+            {% for post in site.posts %}
+
+            <li>
+                <a href="{{ post.url }}" title="{{ post.description }}"><time>{{ post.date | date: '%Y-%d-%m' }}</time> <em>{{ post.title }}</em></a>
+                <div class="description">{{ post.description }}</div>
+            </li>
+
+            {% endfor %}
+
+        </ul>
+
         <main>
 
             <article>

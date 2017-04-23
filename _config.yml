@@ -1,5 +1,10 @@
+gems:
+  - bootstrap-sass
+  - jekyll-multiple-languages-plugin
+
 # Jekyll configuration
 TZ: Europe/Paris
+permalink: /:year/:month/:day/:categories/:title.html
 
 # custom vars
 name: Polyptyque
