@@ -5,6 +5,7 @@ gems:
 # Jekyll configuration
 TZ: Europe/Paris
 permalink: /:year/:month/:day/:categories/:title.html
+include: [css]
 
 # custom vars
 name: Polyptyque
