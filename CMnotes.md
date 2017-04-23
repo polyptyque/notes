@@ -1,4 +1,4 @@
-#Rpi Compute module
+# Raspberry Pi Compute module
 
 le rpi compute module est sans emplacement card micro-SD, toute sa mémoire dure est dans une flash de 4Go env. 
 
