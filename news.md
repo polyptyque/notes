@@ -4,4 +4,4 @@ layout: news
 
 # Journal de bord
 
-le journal a été déplacé dans le dossier [_posts](_posts)
+le journal a été déplacé à cette adresse [notes.polyptyque.photo](http://notes.polyptyque.photo)
