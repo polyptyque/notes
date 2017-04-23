@@ -28,19 +28,26 @@
             <hr />
         </header>
 
-        <h2 class="h1">Journal de bord</h2>
-        <ul class="news">
+            <div class="row">
+                <div class="col col-md-4 col-news">
+                    <h2 class="h1">Journal de bord</h2>
+                    <ul class="news">
 
-            {% for post in site.posts %}
+                        {% for post in site.posts %}
 
-            <li>
-                <a href="{{ post.url }}" title="{{ post.description }}"><time>{{ post.date | date: '%Y-%d-%m' }}</time> <em>{{ post.title }}</em></a>
-                <div class="description">{{ post.description }}</div>
-            </li>
+                        <li>
+                            <a href="{{ post.url }}" title="{{ post.description }}"><time>{{ post.date | date: '%Y-%d-%m' }}</time> <em>{{ post.title }}</em></a>
+                            <div class="description">{{ post.description }}</div>
+                        </li>
 
-            {% endfor %}
+                        {% endfor %}
 
-        </ul>
+                    </ul>
+                </div>
+                <div class="col col-md-8 pull-right">
+                    <img class="h1" src="images/20-04-2017/IMG_5112.jpg" alt="F93" />
+                </div>
+        </div>
 
         <main>
 
