@@ -84,9 +84,35 @@ footer{
     margin: 0;
   }
   a{
-    background: #fff;
+    background: transparentize(white, .8);
     padding: $padding-xs-vertical $padding-xs-horizontal;
     @include border-radius($border-radius-small);
+    &.author{
+      background: #fff;
+    }
+  }
+  hr{
+    border-color:transparentize($brand-primary,.8);
+    margin: .5em 0;
+  }
+  p{
+    @media screen and (max-width: $screen-md-min) {
+      display: inline;
+    }
+  }
+  strong{
+    color:white;
+    font-weight: normal;
+    background: $brand-primary;
+    padding: 1px 5px;
+    @include border-radius($border-radius-small);
+  }
+  .credits{
+    color:transparentize($brand-primary,.8);
+    a{
+      color:transparentize($brand-primary,.5);
+      background-color:transparentize(white,.8);
+    }
   }
 }
 
