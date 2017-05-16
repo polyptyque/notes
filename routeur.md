@@ -158,6 +158,7 @@ Pour ne pas devoir redémarrer ces services à chaque démarrage du rPi, exécut
 
 	sudo update-rc.d hostapd enable 
 	sudo update-rc.d isc-dhcp-server enable	
+
 ## Est-ce que le wifi est visible
 
 Cette commande permet depuis le rPi de scanner les réseaux wifi disponibles et d'obtenir des informations sur ceux-ci. 
