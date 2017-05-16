@@ -9,5 +9,6 @@ Le projet `Polyptique` est un projet ouvert et publique. Il a pour objectif de f
 
 - [ma cheatsheet pour Raspberry Pi](rpi-cheatsheet.md)
 - [mes notes dédiées au Compute Module](CMnotes.md)
+- [Routeur wifi, via raspberry Pi](router.md)
 - [préparation de l’image pour le `slave-module`](image-cm-slave-module.md)
 - [liens utiles](links.md)
