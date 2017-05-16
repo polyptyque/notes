@@ -1,5 +1,10 @@
 # Liens utiles
 
+## Software
+
+### Wifi
+- pour transformer un `rpi + dongle wifi` en hotspot wifi [raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/](http://raspberrypihq.com/how-to-turn-a-raspberry-pi-into-a-wifi-router/). Attention le dongle qu’on utilise est de type `RTL8188`
+
 ## Hardware
 
 ### Camera
