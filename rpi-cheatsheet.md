@@ -34,6 +34,14 @@ pour prendre deux photos en dual-cam
 
 	raspistill -o cam-test-$(date +%Y-%m-%d_%H-%M-%S)-1.jpg -cs 1 & raspistill -o cam-test-$(date +%Y-%m-%d_%H-%M-%S)-0.jpg -cs 0	
 	
+### pour le status des pi cameras
+
+	vcgencmd get_camera	
+
+Si tout va bien (si le dual-cam est bien configuré), on a ça :
+	
+	supported=2 detected=2
+	
 ### monter la particition de boot (depuis mon PI B+)
 
 Je n'ai pas réussi à faire fonctionner l'utilitaire rpiboot sur mon osx. Du coup, je l’ai fait depuis mon PI B+.
