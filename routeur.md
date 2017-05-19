@@ -113,6 +113,25 @@ On va installer le logociel `HostAPD`. Il faut vérifier que votre dongle wifi e
 	sudo make
 	sudo make install
 
+## Adresses matérielles
+
+les dungle wifi des computes modules sont les suivants. Chaque dongle wifi est numéroté, chaque CMIO, chaque CM de 1 à 9 :
+	
+	CM1 ec:f0:0e:4b:a3:cc
+	CM2 ec:f0:0e:4b:86:a6
+	CM3 ec:f0:0e:4b:83:94
+	CM4 ec:f0:0e:4b:c2:76
+	CM5 ec:f0:0e:4b:ac:78
+	CM6 ec:f0:0e:4b:e4:2e
+	CM7 ec:f0:0e:4b:9e:4e
+	CM8 ec:f0:0e:4b:6a:af
+	CM9 ec:f0:0e:4b:9d:6f
+
+le master a les adresses suivantes
+
+	MASTER wlan0 b8:27:eb:e0:c1:e8
+	MASTER wlan1 ec:f0:0e:4b:e5:fd
+
 ### Configuration de `HostAPD`
 
 Afin de paramétrer le point d’accès wifi, on édite le fichier de configuration
