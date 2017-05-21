@@ -132,6 +132,10 @@ le master a les adresses suivantes
 	MASTER wlan0 b8:27:eb:e0:c1:e8
 	MASTER wlan1 ec:f0:0e:4b:e5:fd
 
+## Téléphone
+
+	07 69 97 70 49
+
 ### Configuration de `HostAPD`
 
 Afin de paramétrer le point d’accès wifi, on édite le fichier de configuration
