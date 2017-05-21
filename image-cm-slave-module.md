@@ -81,3 +81,21 @@ Ajouter 200Mo de zéros à l'image disque :
 Étendre la partition 2 de 200Mo :
 
 	pas fini !
+
+### Monter l’image pour vérifier/corriger les partitions
+
+on repère l’offset de la partition avec la commande `fdisk`, puis on insert cette valeur en option `-o`.
+
+	sudo losetup -o 47185920 /dev/loop0 2017-04-10-raspbian-jessie-lite.slave-module.img
+
+ensuite on peut la checker et la réparer automatiquement, avec
+
+	sudo e2fsck -f /dev/loop0
+	
+## Transférer l’image vers le CM
+
+il faut évidement [installer](https://github.com/raspberrypi/usbboot) et utiliser `rpiboot` pour monter le eMMC du CM sur `/dev/sda`.  
+
+Il faut vérifier que c’est bien `/dev/sda`, car parfois c’est `/dev/sdb`. Utiliser la commande `sudo fdisk -l`
+
+	sudo dd bs=4MiB if=2017-04-10-raspbian-jessie-lite.slave-module.img of=/dev/sda	
