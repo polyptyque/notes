@@ -2,7 +2,7 @@
 layout: post
 title:  "31 mai"
 description : "Affiché une mire sur la preview caméra"
-date:   2017-04-20 12:00:00 +02:00
+date:   2017-05-30 00:00:00 +02:00
 author: Arthur Violy
 categories: caméra python
 ---
