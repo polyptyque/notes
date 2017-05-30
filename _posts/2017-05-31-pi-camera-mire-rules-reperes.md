@@ -10,8 +10,8 @@ categories: caméra python
 Il a été difficile de trouver la solution mais voilà, c'est — *presque* — bon pour afficher le retour vidéo en temps réel, 
 avec une *mire* par dessus, en `overlay`.
 
-<video src="https://mastodon.social/media/iUDUM5ep-vKxdvjT6rI" type="video/mp4" poster="images/mire-video-pi-camera.png" controls autoplay loop>
-[![voir la vidéo](images/mire-video-pi-camera.png)](https://mastodon.social/media/iUDUM5ep-vKxdvjT6rI)
+<video src="https://mastodon.social/media/iUDUM5ep-vKxdvjT6rI" type="video/mp4" poster="/images/mire-video-pi-camera.png" controls autoplay loop>
+[![voir la vidéo](/images/mire-video-pi-camera.png)](https://mastodon.social/media/iUDUM5ep-vKxdvjT6rI)
 </video>
 
 Le mécanisme était en fait intégré à la librairie python *picamera*, avec la méthode `camera.add_overlay`
