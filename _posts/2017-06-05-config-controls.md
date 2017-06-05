@@ -9,4 +9,4 @@ categories: camera configuration python
 
 Afin de pouvoir facilement modifier l’ensemble des configurations des 19 caméras, des 10 modules — en direct — j’ai préparé une interface Web de configuration des caméras en mode manuel. 
 
-![/img/camera-config-controls.jpg](camera config controls)
+![camera config controls](/images/camera-config-controls.jpg)
