@@ -1,13 +1,13 @@
+gems:
+  - bootstrap-sass
+  - jekyll-multiple-languages-plugin
+
 # Jekyll configuration
 TZ: Europe/Paris
 permalink: /:year/:month/:day/:categories/:title.html
 exclude: ['posts']
 include: ['css']
 safe: true
-
-gems:
-  - bootstrap-sass
-  - jekyll-multiple-languages-plugin
 
 # custom vars
 name: Polyptyque
