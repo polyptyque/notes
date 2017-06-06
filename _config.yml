@@ -1,0 +1,13 @@
+gems:
+  - bootstrap-sass
+  - jekyll-multiple-languages-plugin
+
+# Jekyll configuration
+TZ: Europe/Paris
+permalink: /:year/:month/:day/:categories/:title.html
+include: [css]
+
+# custom vars
+name: Polyptyque
+description: notes du projet Polyptyque
+authors: Bertrand Sandrez, Arthur Violy
