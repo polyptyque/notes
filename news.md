@@ -1,5 +1,6 @@
 ---
-layout: news
+layout: home
+title: "Actualités"
 ---
 
 # Journal de bord
