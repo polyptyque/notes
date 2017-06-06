@@ -73,6 +73,16 @@ img{
   */
 }
 
+header{
+  h1,.h1{
+    .icon-logo-polyptyque{
+      font-size:.75em;
+      display: inline-block;
+      margin: 0 .25em 0 0;
+    }
+  }
+}
+
 footer{
   background:lighten($brand-primary,40);
   font-family: $font-family-monospace;
